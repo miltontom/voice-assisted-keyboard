@@ -1,7 +1,7 @@
-# Voice Assisted Keyboard
+# Voicey
 
-This system allows individuals who are handicapped or with motor impairments
-to use the keyboard via their voice.
+Voicey is a voice assisted keyboard that allows individuals who are handicapped or with motor impairments
+to use the keyboard completely via their voice.
 
 ## Usecases
 
