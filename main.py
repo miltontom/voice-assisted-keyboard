@@ -1,7 +1,7 @@
 import speech_recognition as sr
 
 
-def speech_to_text():
+def speech_to_text() -> None:
     recognizer = sr.Recognizer()
 
     with sr.Microphone() as mic:
