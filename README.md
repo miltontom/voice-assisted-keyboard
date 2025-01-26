@@ -3,7 +3,7 @@
 Voicey is a voice assisted keyboard that allows individuals who are handicapped or with motor impairments
 to use the keyboard completely via their voice.
 
-## Usecases
+## Use cases
 
 1. If the physical keyboard is not functioning properly
 2. Individuals who are handicapped or with motor impairments
