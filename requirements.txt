@@ -1,0 +1,4 @@
+SpeechRecognition>=3.14.0
+PyAudio>=0.2.14
+keyboard>=0.13.5
+PyGetWindow>=0.0.9
