@@ -1,10 +1,13 @@
 # Voicey
 
-Voicey is a voice assisted keyboard that allows individuals who are handicapped or with motor impairments
-to use the keyboard completely via their voice.
+Voicey is a voice-assisted keyboard for Windows that enables users to control their keyboard entirely using voice
+commands. It is designed for individuals with motor impairments, disabilities, or anyone looking for a hands-free typing
+experience.
 
-## Use cases
+## Why Use Voicey?
 
-1. If the physical keyboard is not functioning properly
-2. Individuals who are handicapped or with motor impairments
-3. If you're lazy reaching for the physical keyboard to type or perform a keyboard shortcut
+**Accessibility** – Helps individuals with motor impairments or disabilities type and execute keyboard shortcuts.
+
+**Hardware Issues** – Useful when your physical keyboard is malfunctioning.
+
+**Convenience** – Ideal for hands-free typing when you prefer not to reach for the keyboard.
